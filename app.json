@@ -4,8 +4,8 @@
     "description": "Jarvis Multi Device whatsapp bot",
     "logo": "https://i.imgur.com/PmfMtfa.jpeg",
     "keywords": ["whatsapp"],
-    "repository": "https://github.com/Loki-Xer/Jarvis",
-    "website": "https://github.com/Loki-Xer/Jarvis",
+    "repository": "https://github.com/Rudraraj3/Jarvis",
+    "website": "https://github.com/Rudraraj3/Jarvis",
     "success_url": "/",
     "stack": "container",
     "env": {
@@ -64,7 +64,7 @@
         "SUDO": {
             "description": "owner number of the bot",
             "required": false,
-            "value":"4915252819677"
+            "value":"919883457657"
         },
         "ALLWAYS_ONLINE": {
             "description": "show bot number last seen as online",
